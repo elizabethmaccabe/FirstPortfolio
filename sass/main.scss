@@ -322,7 +322,7 @@ h3
 //Home Page
 .name
 {
-    font-family: "spumante",sans-serif;
+    font-family: $headerFont;
     font-size: 8em;
     font-weight: 700;
     color: $white;
@@ -335,7 +335,7 @@ h3
 
 .tagline
 {
-    font-family: "proxima-nova",sans-serif;
+    font-family: $bodyFont;
     font-size: 1.5em;
     font-weight: 400;
     color: $white;
