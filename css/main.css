@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css?family=League+Script|Poppins:200,300,400");
+@import url("https://use.typekit.net/zgr4shl.css");
 * {
   box-sizing: border-box; }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-weight: 200;
   font-size: 20px;
   text-align: justify;
@@ -87,13 +87,13 @@ a {
     color: #FFFFFF; }
 
 p {
-  font-family: "Poppins", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-weight: 200;
   color: #FFFFFF;
   text-align: justify; }
 
 h3 {
-  font-family: "League Script", cursive;
+  font-family: "spumante", cursive;
   font-weight: 200;
   font-size: 2.5em;
   color: #FF7D00;
@@ -151,7 +151,7 @@ h3 {
   margin-top: -30px;
   display: none; }
   .hamburgerMenu p {
-    font-family: "Poppins", sans-serif;
+    font-family: "proxima-nova", sans-serif;
     text-align: center;
     color: #FF7D00;
     padding-top: 25px;
@@ -230,7 +230,7 @@ h3 {
           color: #999999; }
 
 .name {
-  font-family: "League Script", cursive;
+  font-family: "spumante", cursive;
   font-size: 8em;
   font-weight: 700;
   color: #FFFFFF;
@@ -241,7 +241,7 @@ h3 {
   margin-top: 13%; }
 
 .tagline {
-  font-family: "Poppins", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-size: 1.5em;
   font-weight: 200;
   color: #FFFFFF;
@@ -258,7 +258,7 @@ h3 {
   display: none; }
 
 .title1 {
-  font-family: "League Script", cursive;
+  font-family: "spumante", cursive;
   font-size: 4.5em;
   line-height: 60%;
   text-align: center;
@@ -288,7 +288,7 @@ h3 {
   margin-bottom: 3%; }
 
 .title2 {
-  font-family: "League Script", cursive;
+  font-family: "spumante", cursive;
   font-size: 4.5em;
   line-height: 60%;
   text-align: center;
@@ -302,7 +302,7 @@ form p {
   font-size: 1.2em;
   margin-top: 8%; }
 form label {
-  font-family: "Poppins", sans-serif;
+  font-family: "proxima-nova", sans-serif;
   font-size: 1.1em;
   font-weight: 200;
   color: #FFFFFF;
@@ -315,7 +315,7 @@ form fieldset {
     background-color: #CCCCCC;
     border: none;
     height: 40px;
-    font-family: "Poppins", sans-serif;
+    font-family: "proxima-nova", sans-serif;
     font-weight: 200;
     font-size: 1em;
     color: #000000;
@@ -326,7 +326,7 @@ form fieldset {
     background-color: #CCCCCC;
     border: none;
     height: 200px;
-    font-family: "Poppins", sans-serif;
+    font-family: "proxima-nova", sans-serif;
     font-weight: 200;
     font-size: 1em;
     resize: vertical;
@@ -339,7 +339,7 @@ form fieldset {
     background-color: #FF7D00;
     border: none;
     height: 60px;
-    font-family: "Poppins", sans-serif;
+    font-family: "proxima-nova", sans-serif;
     font-weight: 500;
     font-size: 1.6em;
     color: #FFFFFF;
